@@ -1,0 +1,12 @@
+div {
+  background-color: #f3dade;
+  color: darkmagenta;
+  min-height: 300px;
+  padding: 20px;
+
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
